@@ -1,0 +1,5 @@
+GeneName	Control1	Control2	TypeA1	TypeA2	TypeB1	TypeB2
+GeneA	5	6	12	13	7	8
+GeneB	7	5	14	15	9	8
+GeneC	6	7	12	12	8	9
+GeneD	6	6	14	17	7	8
